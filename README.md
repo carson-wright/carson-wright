@@ -1,3 +1,3 @@
-👋 Hey, I'm Carson Wright and you've found my Github! I'm the founder of Boise based [Cityscapes Studio](https://www.cityscapes.studio), and a mechanical keyboard designer in my free time. For more information about me feel free to check out my [website](https://carsonwright.me). 
+👋 Hey, I'm Carson Wright and you've found my Github! I'm the owner of Boise based print shop [Ponderosa Printing](https://www.ponderosaprinting.com).
 
 Here are some of my notable Github projects:
